@@ -1,0 +1,6 @@
+streamlit
+groq
+pandas
+scikit-learn
+python-dotenv
+datasets
